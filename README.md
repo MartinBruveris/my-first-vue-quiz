@@ -8,13 +8,13 @@ The application retrieves required data from https://documenter.getpostman.com/v
 
 **To run the app:**
 
-1.Clone the repo
-1.Run npm install
-1.Run npm run serve
-1.Head to http://localhost:8080/ to check out the app
+1. Clone the repo
+1. Run npm install
+1. Run npm run serve
+1. Head to http://localhost:8080/ to check out the app
 
 
-**About the app:*8
+**About the app:**
 
 I was trying to create a SPA and to some extent that did work out OK(There are some cavieats in relation how the routing and redirects are performed).
 
